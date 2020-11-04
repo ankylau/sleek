@@ -3,7 +3,7 @@ layout: page
 title: 联系我们
 permalink: /contact/
 ---
-### 品牌方
+### 联系我们
 `品牌加盟咨询`  
 邮箱：[点击发送邮件](mailto:{{site.email}})  
 传真：+86-17686950615  
