@@ -26,7 +26,7 @@ navigation: # Navigation links
 
 headtitle: KONETA®
 tagline: >
-  汽车服务周边品牌，汽车用品贸易供应商。
+  汽车周边服务品牌，汽车用品贸易供应商。
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: info@ankylau.com # email for form submission
