@@ -23,9 +23,10 @@ navigation: # Navigation links
   - {name: '关于', link: '/about'}
   - {name: '联系我们', link: '/contact'}
 
-headtitle: 测试标题
+headtitle: 柯尼特品牌官方
 tagline: >
-  Koneta®柯尼特是一个汽车周边服务，汽车生活方式品牌
+  Koneta®柯尼特是一个汽车周边服务，汽车生活方式品牌。
+  提供全类高档汽车内外饰用品销售，汽车外饰服务。
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: info@ankylau.com # email for form submission
