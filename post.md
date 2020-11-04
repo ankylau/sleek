@@ -1,8 +1,5 @@
 ---
-layout: page
+layout: zixun
 title: 最新资讯
 permalink: /post/
-layout: zixun
 ---
-
-资讯
