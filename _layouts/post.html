@@ -44,12 +44,12 @@ layout: compress
           <time>{{ page.date | date_to_string }}</time>&nbsp;&middot;
         </span>
         <span>
-            {% assign words = content | number_of_words %}
+          预计 {% assign words = content | number_of_words %}
               {% if words < 360 %}
                 1 min
               {% else %}
                 {{ words | divided_by:180 }} 分钟
-            {% endif %} 阅读时间
+            {% endif %} 阅完
         </span>
       </p>
     </div>
