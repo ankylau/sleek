@@ -4,7 +4,7 @@ author: Anky Lau # You :P
 description: > # 网站介绍
   汽车周边服务，汽车生活方式品牌。
 baseurl: "/sleek" # the subpath of your site, e.g. /blog
-url: "https://ankylau.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
