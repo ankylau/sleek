@@ -26,7 +26,7 @@ navigation: # Navigation links
 headtitle: 汽车生活方式品牌
 tagline: >
   Koneta®柯尼特是一个以汽车周边高质量服务。<br/>
-  保持车辆处于最佳状态比想象的要容易！无论您是需要保持可靠的发动机性能，还是想在人迹罕至的地方享受更好的处理，等等，我们都能满足您的要求。  
+  保持车辆处于最佳状态比想象的要容易！无论您是需要保持可靠的发动机性能，还是想在人迹罕至的地方享受更好的处理，等等，我们都能满足您的要求。<br/>
   顺便说一句，我们期待与您见面！
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
