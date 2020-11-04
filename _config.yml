@@ -23,6 +23,7 @@ navigation: # Navigation links
   - {name: '关于', link: '/about'}
   - {name: '联系我们', link: '/contact'}
 
+headtitle: 测试标题
 tagline: >
   Koneta®柯尼特是一个汽车周边服务，汽车生活方式品牌
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
