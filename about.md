@@ -1,13 +1,8 @@
 ---
 layout: page
-title: About
+title: 关于我们
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
-
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Koneta®柯尼特是一个汽车周边服务，汽车生活方式品牌。  
+提供全类高档汽车内外饰用品销售，汽车外饰服务。  
