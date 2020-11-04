@@ -24,8 +24,7 @@ navigation: # Navigation links
   - {name: '联系我们', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
-
+  Koneta柯尼特是一个汽车周边服务，汽车生活方式品牌
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: info@ankylau.com # email for form submission
