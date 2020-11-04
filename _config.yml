@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Koneta柯尼特官方网站 # 网站标题
+title: Koneta®柯尼特官网 # 网站标题
 author: Anky Lau # You :P
 description: > # 网站介绍
   汽车周边服务，汽车生活方式品牌。
@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: '联系我们', link: '/contact'}
 
 tagline: >
-  Koneta柯尼特是一个汽车周边服务，汽车生活方式品牌
+  Koneta®柯尼特是一个汽车周边服务，汽车生活方式品牌
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: info@ankylau.com # email for form submission
