@@ -13,7 +13,3 @@ Check the form below to see it in action!
 ### Example Formspree contact form with validation and reCaptcha
 
  [点击与我们发送邮件](mailto:{{site.email}}) 
-
-{% include form.html %}
-
-{% include modal.html %}
