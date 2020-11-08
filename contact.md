@@ -8,7 +8,7 @@ permalink: /contact/
 联系人：刘先生  
 邮箱：[点击发送邮件](mailto:{{site.email}})  
 传真：+86-17686950615  
-网址：[https://koneta.cn](https://koneta.cn)  
+网址：[www.koneta.cn](https://koneta.cn)  
 地址：山东省临沂市兰山区齐鲁e谷电商产业园  
 ***
 ### 线下汽车服务门店
