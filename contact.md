@@ -9,7 +9,7 @@ permalink: /contact/
 邮箱：[点击发送邮件](mailto:{{site.email}})  
 电话：+86-17686950615  
 `产品运营销售`  
-联系人：阚先生
+联系人：阚先生  
 电话：0539-7772919  
 网址：[www.koneta.cn](https://koneta.cn)  
 地址：山东省临沂市兰山区齐鲁e谷电商产业园  
